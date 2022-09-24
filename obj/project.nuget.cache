@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0HipwCeDtwg/lXki3RseBNgY7umt3CA80VfrAOTpGQqY1vr+d9AdBMs/pdjSai/GxKh1vKbnHxX0Dl4qjeynmg==",
+  "success": true,
+  "projectFilePath": "/var/www/laser-app/laser-app.csproj",
+  "expectedPackageFiles": [
+    "/home/jason/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/jason/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/jason/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/jason/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/jason/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/jason/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
